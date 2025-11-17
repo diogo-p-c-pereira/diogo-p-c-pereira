@@ -1,5 +1,6 @@
 ##
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=diogo-p-c-pereira&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogo-p-c-pereira&hide=css&layout=compact&langs_count=10&theme=tokyonight&size_weight=0.2&count_weight=0.8" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diogo-p-c-pereira&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide=jupyter%20notebook" /> -->
 <!--
 **diogo-p-c-pereira/diogo-p-c-pereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
